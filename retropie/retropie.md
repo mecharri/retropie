@@ -39,4 +39,3 @@ Al reiniciar inicia correctamente, detecta que no hay gamepads. Pruebo con tecla
 
 ## ROMs
 * No hay ROMs, hay que agregarlas
-* 
